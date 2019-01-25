@@ -1,0 +1,9 @@
+
+#content {
+    text-align: center;
+    width: 400px;
+    min-height: 500px;
+    left: calc(50% - 200px);
+    float: left;
+    position: relative;
+}
